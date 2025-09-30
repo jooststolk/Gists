@@ -11,6 +11,7 @@ Optionally add a DDL trigger to protect your schema
 
 Ideal for consultants, educators, and developers modernizing legacy systems with privacy-conscious architecture.
 
-📎 View the Gist  
-https://gist.github.com/yourusername/abc1234567890def
+View the file at:
+https://gist.github.com/jooststolk/18c76f8337d0a2d13d5ab065cc606e42
+
 💡 Tags: #SQLServer #IntegratedSecurity #LeastPrivilege #LegacyModernization #PrivacyByDesign
