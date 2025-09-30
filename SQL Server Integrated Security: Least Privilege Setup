@@ -1,0 +1,15 @@
+🔐 SQL Server Integrated Security: Least Privilege Setup
+This Gist provides a practical SQL Server setup for applications using Integrated Security. It demonstrates how to:
+
+Map Windows groups to database users
+
+Grant minimal permissions for safe data access
+
+Explicitly deny destructive actions like DROP TABLE
+
+Optionally add a DDL trigger to protect your schema
+
+Ideal for consultants, educators, and developers modernizing legacy systems with privacy-conscious architecture.
+
+📎 [View the Gist](https://gist.github.com/yourusername/abc1234567890def)
+💡 Tags: #SQLServer #IntegratedSecurity #LeastPrivilege #LegacyModernization #PrivacyByDesign
